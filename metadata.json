@@ -1,0 +1,7 @@
+{
+  "name": "Alex Brown - Digital Statesman",
+  "description": "The premium activist platform for Alex Brown, dedicated to credible leadership and the movement for a New Nigeria.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
